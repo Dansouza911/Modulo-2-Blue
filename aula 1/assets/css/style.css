@@ -20,5 +20,5 @@ div#aracaju{ /* # é usado para ID */
 }
 
 div.sergipe{ /* . é usado para Classes */
-background-color: rgb(137, 12, 240);
+background-color: green;
 }
