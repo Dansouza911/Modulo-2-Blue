@@ -1,0 +1,24 @@
+/* O * pega todas as tags do cogigo */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #EE112C;
+}
+
+div{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+}
+
+div#aracaju{ /* # é usado para ID */
+    background-color: blue;
+}
+
+div.sergipe{ /* . é usado para Classes */
+background-color: rgb(137, 12, 240);
+}
