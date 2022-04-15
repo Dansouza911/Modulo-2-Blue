@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    Site desenvolvido para a 1ª avaliação do Módulo 2 do Cursso Desenvolvimento Full Stack - Crie 18 Apps na Udemy.
+    Site desenvolvido para a 1ª avaliação do Módulo 2 do Cursso Desenvolvimento Full Stack - Blue EdTech.
 </h3>
 
 <h4 align="center">
