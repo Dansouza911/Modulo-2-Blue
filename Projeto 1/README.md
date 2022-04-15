@@ -37,8 +37,8 @@ Tabela de conteúdos
 ## 🎨 Layout
 
 <p align="center">
-	<img src="" alt="screenshot1" width="250"/>
-	<img src="" alt="screenshot2" width="250"/>
+	<img src="https://github.com/Dansouza911/Modulo-2-Blue/blob/master/Projeto%201/assets/img/screenshot1.png" alt="screenshot1" width="250"/>
+	<img src="https://github.com/Dansouza911/Modulo-2-Blue/blob/master/Projeto%201/assets/img/screenshot2.png" alt="screenshot2" width="250"/>
 	
 </p>
 
