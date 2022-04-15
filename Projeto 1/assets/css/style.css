@@ -71,8 +71,9 @@ table {
 }
 
 footer{
-background-color: #003e78;
-
+background-color: #003e78bd;
+height: 50px;
+  width: 100%;
 }
 
 
